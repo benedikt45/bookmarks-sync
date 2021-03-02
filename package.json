@@ -1,0 +1,19 @@
+{
+  "name": "bookmarks-sync",
+  "version": "1.0.0",
+  "description": "Bookmarks synchronization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benedikt45/bookmarks-sync.git"
+  },
+  "author": "benedikt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benedikt45/bookmarks-sync/issues"
+  },
+  "homepage": "https://github.com/benedikt45/bookmarks-sync#readme"
+}
